@@ -10,3 +10,4 @@ align="center">
 </div>
 
 # Grok is a text editor, stay tuned for updates!
+# This was named Grok before the xAI Grok, and the name is under revisement...
